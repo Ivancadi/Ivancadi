@@ -30,6 +30,6 @@ Entre otras herramientas, también tengo conocimientos en Machine Learning, Big 
 ### Contacto
 Puedes contactarme a traves de:
 
-Linkedin: https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/
+[Linkedin](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/)
 
 Correo: ivancanavera99@gmail.com
