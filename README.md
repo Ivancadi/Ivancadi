@@ -28,7 +28,7 @@ El bootcamp en Henry me ha permitido adquirir el conocimiento y experiencia en t
 Entre otras herramientas, también tengo conocimientos en Machine Learning, Big Data, ETL y Webscraping.
 
 ### Contacto
-Puedes contactarme a traves de:
+Puedes contactarme a través de:
 
 [Linkedin](https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/)
 
