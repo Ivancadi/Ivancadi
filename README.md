@@ -14,7 +14,7 @@ Mi objetivo es impactar el mundo con técnicas de Data Science.
 Es un trabajo que me apasiona realizar, del cual disfruto cada momento. Por eso cada día mejoro mi conocimiento en este campo, para ir de la mano ante este mundo tan cambiante en tecnología. 
 
 ### ¿Qué tecnologías utilizo?
-El bootcamp en Henry me han permitido adquirir el conocimiento y experiencia en tecnologías como:
+El bootcamp en Henry me ha permitido adquirir el conocimiento y experiencia en tecnologías como:
 
 * Python
 * SQL
@@ -24,9 +24,12 @@ El bootcamp en Henry me han permitido adquirir el conocimiento y experiencia en 
 * Hadoop
 * Spark
 * GIT
+
 Entre otras herramientas, también tengo conocimientos en Machine Learning, Big Data, ETL y Webscraping.
 
 ### Contacto
 Puedes contactarme a traves de:
+
 Linkedin: https://www.linkedin.com/in/ivan-diaz-ca%C3%B1avera-739124211/
+
 Correo: ivancanavera99@gmail.com
